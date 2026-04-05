@@ -27,3 +27,29 @@ This project demonstrates programming an autonomous robot using the iRobot Creat
 - **Facility Management:** Using the GUI, there’s no need to be physically present with the robot to track its position. The robot and any obstacles it detects can be displayed remotely.
 
 - **Research & Development:** This project can serve as a foundation for more advanced robotics research, including machine learning for adaptive navigation, multi-robot coordination, and autonomous decision-making.
+
+## Contributions
+**Dawud Benedict**: 
+- Drew propsal sketches
+- Implemented object detection and scanning
+- Helped with movement functions
+- Assisted in gap detection and navagation
+
+**Armondo Reyes**:
+- Calabration for sensors and buttons
+- Improved OI sensor reading
+- Sound implementation
+- Bump and cliff avoidance
+
+**Chris Marchitto**:
+- Gap detectiona and midpoint calculations
+- Trigonometry calculations for grid system
+- Implemeted main()
+- Worked on UART for GUI communication
+
+**Connor Grim**:
+- Python GUI
+- UART connection
+
+
+
