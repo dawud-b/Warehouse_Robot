@@ -30,7 +30,7 @@ This project demonstrates programming an autonomous robot using the iRobot Creat
 
 ## Contributions
 **Dawud Benedict**: 
-- Drew propsal sketches
+- Drew proposal sketches
 - Implemented object detection and scanning
 - Helped with movement functions
 - Assisted in gap detection and navagation
